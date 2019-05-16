@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UberImpactosDigitales</string>
+    <string name="I_am_driver">Soy un conductor</string>
+    <string name="I_am_customer">Soy un pasajero</string>
+    <string name="title_activity_driver_map">Map</string>
+    <string name="title_activity_customer_maps">Map</string>
+</resources>

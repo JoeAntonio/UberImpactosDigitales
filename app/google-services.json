@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1002437910440",
+    "firebase_url": "https://uberimpactosdigitales-6a11a.firebaseio.com",
+    "project_id": "uberimpactosdigitales-6a11a",
+    "storage_bucket": "uberimpactosdigitales-6a11a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1002437910440:android:04b667f3789019d9",
+        "android_client_info": {
+          "package_name": "impactosdigitales.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1002437910440-fuqbti7ukt9mtd9pjhrh1i1qa4763itl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "impactosdigitales.com",
+            "certificate_hash": "18e1971c9a42803a76c2a87809fd357438d8d31c"
+          }
+        },
+        {
+          "client_id": "1002437910440-0pr71lbupfmgn9k48ae111n78euqfteo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-pVAn8Bx0OLp2piH0eADD9hD1DfvzLks"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1002437910440-0pr71lbupfmgn9k48ae111n78euqfteo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
